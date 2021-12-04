@@ -1,0 +1,36 @@
+{
+  "casa": [
+    {
+      "nomeCasa": "Casa do Mateus",
+      "enderecoCasa": "Rua Getúlio Vargas, 123",
+      "qtddPessoas": "2000",
+      "id": 1
+    }
+  ],
+  "cadastro": [],
+  "compra": [],
+  "evento": [
+    {
+      "nomeSolicitante": "Mateus Higino",
+      "nomeEvento": "Futebol",
+      "descricao": "Evento Esportivo",
+      "data": "2021-12-30",
+      "preco": "150,00",
+      "enderecoEvento": "Rua sei la",
+      "quantidadeIngresso": "1500",
+      "patrocinadorEvento": "Nike",
+      "id": 1
+    },
+    {
+      "nomeSolicitante": "Mateus Higino",
+      "nomeEvento": "Partida de futebol",
+      "descricao": "Evento Esportivo",
+      "data": "2021-12-05",
+      "preco": "20,00",
+      "enderecoEvento": "Rua Getúlio Vargas",
+      "quantidadeIngresso": "2000",
+      "patrocinadorEvento": "Mateus Higino",
+      "id": 2
+    }
+  ]
+}
